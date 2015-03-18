@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Fri Feb 27 18:03:34 CST 2015
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;yarn-appmaster;yarn-client;yarn-container;yarn-dist;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
